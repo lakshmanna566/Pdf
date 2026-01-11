@@ -1,0 +1,7 @@
+{
+  "name": "DocuMorph AI",
+  "description": "Professional document extraction and normalization engine. Convert scanned PDFs, images, and documents into perfectly formatted DOCX and PDF files using Gemini OCR.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
